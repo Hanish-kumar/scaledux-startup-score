@@ -70,8 +70,6 @@ Final Score = Weighted Sum × 100
 - **Heatmap**: Correlation between input features.
 - **Histogram**: Distribution of final scores.
 
-Visuals are located in the `outputs/` folder.
-
 ---
 
 ## Key Insights
